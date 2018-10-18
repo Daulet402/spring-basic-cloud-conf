@@ -1,0 +1,13 @@
+encrypt:
+  key: ASDFGHJKLPOIUYTREQ!@^!@$343423434
+spring:
+  security:
+    user:
+      name: daulet
+      password: asd
+  cloud:
+    config:
+      server:
+        encrypt:
+          enabled: false
+
